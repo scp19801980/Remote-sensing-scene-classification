@@ -1,5 +1,5 @@
 # Remote-sensing-scene-classification
-For the remote sensing scene classification task in complex background, we proposed a lightweight convolutional neural network with bilinear feature extraction structure. The idea of branch feature fusion was proposed to fuse the extracted features of different branches./n
+For the remote sensing scene classification task in complex background, we proposed a lightweight convolutional neural network with bilinear feature extraction structure. The idea of branch feature fusion was proposed to fuse the extracted features of different branches.\n
 models--The folder that contains the model. The model.py is the proposed model code file./n
 original_data--Four remote sensing scene datasets without scale division.The download address of these four datasets is provided in this folder./n
 train.py--Train the model/n
