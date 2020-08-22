@@ -2,7 +2,7 @@
 For the remote sensing scene classification task in complex background, we proposed a lightweight convolutional neural network with bilinear feature extraction structure. The idea of branch feature fusion was proposed to fuse the extracted features of different branches.
 
 
-
+# Files
 models--The folder that contains the model. The model.py is the proposed model code file.
 
 
@@ -24,9 +24,7 @@ split_data.py--Divide training set and test set
 predict.py--The prediction of classification results
 
 
-Code execution environment:
-
-
+# Code execution environment
 python 3.5.2
 
 
@@ -52,5 +50,9 @@ seaborn
 
 
 sklearn
+
+If this project is useful to you, please cite the following paper：
+
+C. Shi, T. Wang and L. Wang, "Branch Feature Fusion Convolution Network for Remote Sensing Scene Classification," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, doi: 10.1109/JSTARS.2020.3018307.
 
 
