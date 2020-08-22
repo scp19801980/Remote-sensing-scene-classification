@@ -51,6 +51,11 @@ seaborn
 
 sklearn
 
+We provide a virtual environment to support the project, which can be downloaded from the following link:
+
+link:https://pan.baidu.com/s/1ZRum81EDRF6AbOMWkf8qhw 
+password:g5ty
+
 If this project is useful to you, please cite the following paper：
 
 C. Shi, T. Wang and L. Wang, "Branch Feature Fusion Convolution Network for Remote Sensing Scene Classification," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, doi: 10.1109/JSTARS.2020.3018307.
